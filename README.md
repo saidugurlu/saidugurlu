@@ -12,7 +12,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-<h3>🌱 I’m currently learning<br/>**Full Stack Web Development** </h3>
+<h3>🌱 I’m currently learning Full Stack Web Development </h3>
  
 <br/>
 <img align="left" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
