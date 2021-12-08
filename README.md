@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" width="100%">
+  <img src="https://github.com/vimalverma558/vimalverma558/blob/v2/img/hello.gif" height="50%" width="100%">
   <br><br>
   <samp>
   
