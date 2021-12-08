@@ -15,14 +15,14 @@
 <h3>🌱 I’m currently learning <br/> <br/> ** Full Stack Web Development **</h3>
  <hr/>
 <br/>
-<img align="left" alt="GIF" height="120px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="left" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 <br/>
 <h4> 🤝🏻 Connect with Me </h4>
 
 <p align="center">
  
-&nbsp; <a href="https://www.linkedin.com/in/ugurlumsaid/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:ugurlumsaid@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+&nbsp; <a href="https://www.linkedin.com/in/ugurlumsaid/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40" /></a>
+&nbsp; <a href="mailto:ugurlumsaid@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="40" /></a>
 </p>
 
 
