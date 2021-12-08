@@ -1,4 +1,5 @@
-# Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 <p align="center">
 <a href="https://twitter.com/apoorv__tyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="apoorv__tyagi" height="20" width="20" /></a>&nbsp;
 <a href="https://linkedin.com/in/apoorvtyagi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="apoorvtyagi" height="20" width="20" /></a>&nbsp;
@@ -108,4 +109,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
------
+
+
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+![Eana Hufwe](https://github.com/blueset/blueset/raw/cda8ec1230cbee16a3a7dc52a4b2272619588233/EanaHandwritingAnimated.svg)
