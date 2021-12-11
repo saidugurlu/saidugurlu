@@ -1,6 +1,6 @@
 <h1 align="center">
    
- Hello I'm Said,  ! 
+ Hello I'm Said ! 
   <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
