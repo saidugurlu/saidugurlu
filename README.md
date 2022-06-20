@@ -19,11 +19,11 @@
 <br/>
 <h4> 🤝🏻 Connect with Me </h4>
 
-<p align="center">
- 
+<p align>
+&nbsp; <a href="https://portfolio-msaidugurlu.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/undefined/domain.png"  width="36" /></a> 
 &nbsp; <a href="https://www.linkedin.com/in/ugurlumsaid/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="40" /></a>
 &nbsp; <a href="mailto:ugurlumsaid@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="40" /></a>
-&nbsp; <a href="https://portfolio-msaidugurlu.vercel.app/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/dusk/64/undefined/domain.png"  width="36" /></a>
+&nbsp; <a href="https://www.xing.com/profile/MSaid_Ugurlu/cv" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/undefined/xing.png" width="36" /></a>
 </p>
 
 
