@@ -12,7 +12,7 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/code.gif">
 </a>
 
-<h3>** Fullstack Web Developer ** </h3> <h4>🌱 I’m currently learning backend web development. <br/>  &emsp;&emsp;&emsp;&emsp; &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(NodeJS, ExpressJS and MongoDB) </h4>
+<h3>** Fullstack Web Developer ** </h3> <h4>🌱 I’m currently learning backend web development. <br/> &emsp;&emsp;&emsp;(NodeJS, ExpressJS and MongoDB) </h4>
  <hr/>
 <br/>
 <img align="left" alt="GIF" height="150px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
